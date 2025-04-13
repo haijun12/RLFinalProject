@@ -4,7 +4,7 @@ import gymnasium as gym
 from craftium import CraftiumEnv
 # /opt/homebrew/bin/python3.11 test.py
 env = CraftiumEnv(
-    env_dir="/Users/haijun/Desktop/Arcs/Spring 2025/ReinforcementLearning/Minecraft/craftium/craftium-envs/room",
+    env_dir="/Users/haijun/Desktop/Arcs/Spring 2025/ReinforcementLearning/Minecraft/craftium/craftium-envs/chop-tree",
     render_mode="human",
     obs_width=512,
     obs_height=512,
@@ -17,7 +17,7 @@ print(info)
 
 plt.figure(figsize=(10, 7))
 print(type(env.action_space))
-for t in range(100):
+for t in range(2000):
     action = env.action_space.sample()
     # print(action)
 
