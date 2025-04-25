@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import gymnasium as gym
 from craftium import CraftiumEnv
 import random
 from collections import namedtuple, deque
@@ -10,7 +9,6 @@ import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 import math
-from collections import OrderedDict
 from craftium.wrappers import DiscreteActionWrapper
 from gymnasium.wrappers import FrameStack
 import time
@@ -441,7 +439,7 @@ else:
 logger = TrainingLogger()
 
 train_agent(env, agent, num_episodes, logger, save_model=True,
-            model_filename="dqn_minecraft_model_stacked.pth")
+            model_filename="dqn_model_stacked.pth")
 
-test_agent(env, agent, 1000, "dqn_minecraft_model_stacked.pth",
+test_agent(env, agent, 1000, "dqn_model_stacked.pth",
            env_configs["frame_stack"], logger)
