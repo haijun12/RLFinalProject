@@ -411,7 +411,8 @@ agent_hyperparameters = {
 
 # ENVIRONMENT SETTINGS
 env_configs = {
-    "env_dir": "/Users/chengxi600/Documents/craftium/craftium-envs/chop-tree",
+    # "env_dir": "/Users/chengxi600/Documents/craftium/craftium-envs/chop-tree",
+    "env_dir": "/Users/haijun/Desktop/Arcs/Spring 2025/ReinforcementLearning/Minecraft/craftium/craftium-envs/chop-tree",
     "obs_w": 64,
     "obs_h": 64,
     "obs_rgb": False,
