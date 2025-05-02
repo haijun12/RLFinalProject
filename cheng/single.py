@@ -18,7 +18,6 @@ Transition = namedtuple('Transition',
 
 
 class ReplayMemory(object):
-
     def __init__(self, capacity):
         self.memory = deque([], maxlen=capacity)
 
@@ -258,7 +257,7 @@ class ChopTreeEnv():
         return self.env.reset()
 
     def _penalize_timestep(self, reward):
-        return reward - 1
+        return reward
 
     def step(self, action):
         obs, reward, terminated, truncated, info = self.env.step(
@@ -309,6 +308,7 @@ class TrainingLogger():
 def train_agent(env: ChopTreeEnv, agent: Agent, num_episodes, logger: TrainingLogger, save_model=False, model_filename="model.pth"):
     agent.reset()
     env.reset()
+    episode_rewards = []
 
     for i_episode in range(num_episodes):
         # Initialize the environment
@@ -320,17 +320,18 @@ def train_agent(env: ChopTreeEnv, agent: Agent, num_episodes, logger: TrainingLo
         for t in count():
             logger.current_step = t
             action = agent.select_action(state)
-            observation, reward, terminated, truncated, _ = env.step(
+            observation, reward, _, truncated, _ = env.step(
                 action.item())
-            done = terminated or truncated
+            done = truncated
 
             # log reward
             logger.episode_rewards += reward
 
-            if terminated:
-                next_state = None
-            else:
-                next_state = agent.reshape_state(observation)
+            # if terminated:
+            #     print("Episode finished after {} timesteps".format(t + 1))
+            #     next_state = None
+            # else:
+            next_state = agent.reshape_state(observation)
 
             # Store the transition in memory
             reward = torch.tensor([reward], device=device)
@@ -356,7 +357,15 @@ def train_agent(env: ChopTreeEnv, agent: Agent, num_episodes, logger: TrainingLo
                 logger.episode_durations.append(t + 1)
                 logger.print_current_episode()
                 break
+        # logger.episode_durations.append(t + 1)
+        # logger.print_current_episode()
+        episode_rewards.append(logger.episode_rewards)
 
+    plt.plot(episode_rewards)
+    plt.xlabel('Episode')
+    plt.ylabel('Total Reward')
+    plt.title('Reward per Episode')
+    plt.show()
     if save_model:
         torch.save(agent.policy_net.state_dict(),
                    model_filename)
@@ -381,6 +390,7 @@ def test_agent(env: ChopTreeEnv, agent: Agent, max_time_steps, model_filepath, f
 
         observation, reward, terminated, truncated, _info = env.step(
             action)
+        
 
         logger.episode_rewards += reward
 
@@ -439,8 +449,8 @@ else:
 
 logger = TrainingLogger()
 
-train_agent(env, agent, num_episodes, logger, save_model=True,
+train_agent(env, agent, 100, logger, save_model=True,
             model_filename="dqn_model_stacked.pth")
 
-test_agent(env, agent, 1000, "dqn_model_stacked.pth",
-           env_configs["frame_stack"], logger)
+# test_agent(env, agent, 1000, "dqn_model_stacked.pth",
+#            env_configs["frame_stack"], logger)
