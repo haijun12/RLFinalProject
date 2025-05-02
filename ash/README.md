@@ -1,0 +1,1 @@
+replace the init.lua file in craftium/craftium-envs/chop-tree/mods/craftium_mods folder that Craftium is loading the environment from. 

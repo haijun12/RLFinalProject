@@ -1,0 +1,1486 @@
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:13:40: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:13:40: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:13:40: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:13:40: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:13:40: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:13:40: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:13:40: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:13:41: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:13:41: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:13:41: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:13:41: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:13:41: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:13:41: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:13:41: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:13:57: WARNING[Server]: active block modifiers took 2ms (processed 92 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:14:08: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:14:08: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:14:08: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:14:08: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:14:08: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:14:08: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:14:09: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:14:21: WARNING[Server]: active block modifiers took 2ms (processed 84 of 93 active blocks)
+2025-05-02 15:14:29: WARNING[Server]: active block modifiers took 2ms (processed 80 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:14:38: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:14:38: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:14:38: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:14:38: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:14:38: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:14:38: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:14:39: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:14:39: WARNING[Server]: active block modifiers took 2ms (processed 84 of 93 active blocks)
+2025-05-02 15:14:49: ACTION[Server]: singleplayer digs default:pine_needles at (62,20,-3)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:15:10: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:15:10: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:15:10: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:15:10: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:15:11: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:15:11: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:15:11: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:15:40: WARNING[Server]: active block modifiers took 2ms (processed 87 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:15:40: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:15:40: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:15:40: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:15:40: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:15:41: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:15:41: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:15:41: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:16:08: ACTION[Server]: singleplayer digs default:dirt_with_snow at (64,17,1)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:16:10: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:16:10: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:16:10: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:16:10: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:16:11: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:16:11: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:16:11: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:16:35: ACTION[Server]: singleplayer digs default:dirt_with_snow at (67,17,2)
+2025-05-02 15:16:38: WARNING[Server]: active block modifiers took 2ms (processed 71 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:16:40: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:16:40: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:16:40: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:16:40: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:16:41: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:16:41: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:16:41: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:17:01: ACTION[Server]: singleplayer digs default:dirt_with_snow at (63,17,1)
+2025-05-02 15:17:08: WARNING[Server]: active block modifiers took 2ms (processed 86 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:17:10: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:17:10: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:17:10: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:17:10: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:17:11: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:17:11: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:17:11: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:17:40: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:17:40: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:17:40: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:17:40: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:17:41: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:17:41: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:17:41: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:17:50: WARNING[Server]: active block modifiers took 2ms (processed 91 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:18:10: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:18:10: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:18:10: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:18:10: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:18:11: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:18:11: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:18:11: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:18:12: WARNING[Server]: active block modifiers took 2ms (processed 92 of 93 active blocks)
+2025-05-02 15:18:27: WARNING[Server]: active block modifiers took 2ms (processed 85 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:18:41: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:18:41: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:18:41: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:18:41: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:18:41: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:18:41: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:18:42: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:19:05: WARNING[Server]: active block modifiers took 2ms (processed 82 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:19:12: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:19:12: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:19:12: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:19:12: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:19:13: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:19:13: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:19:13: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:19:28: ACTION[Server]: singleplayer digs default:pine_tree at (57,18,-5)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:19:28: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:19:28: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:19:28: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:19:28: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:19:28: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:19:28: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:19:31: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:19:33: WARNING[Server]: active block modifiers took 2ms (processed 87 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:20:00: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:20:00: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:20:00: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:20:00: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:20:01: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:20:01: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:20:01: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:20:10: WARNING[Server]: active block modifiers took 2ms (processed 53 of 93 active blocks)
+2025-05-02 15:20:26: ACTION[Server]: singleplayer digs default:dirt_with_snow at (63,17,3)
+2025-05-02 15:20:27: ACTION[Server]: singleplayer digs default:dirt at (63,16,3)
+2025-05-02 15:20:28: ACTION[Server]: singleplayer digs default:dirt at (63,15,3)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:20:31: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:20:31: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:20:31: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:20:31: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:20:32: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:20:32: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:20:32: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:20:47: WARNING[Server]: active block modifiers took 2ms (processed 67 of 83 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:21:03: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:21:03: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:21:03: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:21:03: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:21:03: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:21:03: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:21:03: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:21:25: ACTION[Server]: singleplayer digs default:dirt_with_snow at (63,17,3)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:21:33: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:21:33: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:21:33: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:21:33: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:21:34: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:21:34: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:21:34: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:22:05: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:22:05: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:22:05: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:22:05: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:22:05: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:22:05: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:22:06: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:22:06: WARNING[Server]: active block modifiers took 2ms (processed 93 of 93 active blocks)
+2025-05-02 15:22:14: WARNING[Server]: active block modifiers took 2ms (processed 86 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:22:35: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:22:35: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:22:35: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:22:35: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:22:36: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:22:36: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:22:36: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:23:03: WARNING[Server]: active block modifiers took 2ms (processed 71 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:23:07: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:23:07: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:23:07: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:23:07: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:23:07: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:23:07: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:23:08: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:23:25: WARNING[Server]: active block modifiers took 2ms (processed 86 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:23:37: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:23:37: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:23:37: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:23:37: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:23:38: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:23:38: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:23:38: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:23:40: WARNING[Server]: active block modifiers took 2ms (processed 89 of 93 active blocks)
+2025-05-02 15:23:47: WARNING[Server]: active block modifiers took 2ms (processed 63 of 93 active blocks)
+2025-05-02 15:23:59: WARNING[Server]: active block modifiers took 2ms (processed 86 of 93 active blocks)
+2025-05-02 15:24:02: ACTION[Server]: singleplayer digs default:pine_tree at (63,18,4)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:24:02: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:24:02: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:24:02: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:24:02: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:24:03: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:24:03: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:24:05: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:24:17: WARNING[Server]: active block modifiers took 2ms (processed 67 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:24:36: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:24:36: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:24:36: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:24:36: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:24:36: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:24:36: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:24:39: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:24:39: WARNING[Server]: active block modifiers took 2ms (processed 84 of 93 active blocks)
+2025-05-02 15:24:51: WARNING[Server]: active block modifiers took 2ms (processed 64 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:25:08: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:25:08: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:25:08: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:25:08: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:25:09: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:25:09: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:25:09: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:25:39: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:25:39: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:25:39: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:25:39: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:25:40: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:25:40: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:25:40: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:26:05: ACTION[Server]: singleplayer digs default:dirt_with_snow at (64,17,5)
+2025-05-02 15:26:06: ACTION[Server]: singleplayer digs default:dirt_with_snow at (63,17,5)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:26:10: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:26:10: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:26:10: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:26:10: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:26:11: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:26:11: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:26:13: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:26:14: WARNING[Server]: active block modifiers took 2ms (processed 92 of 93 active blocks)
+2025-05-02 15:26:37: WARNING[Server]: active block modifiers took 2ms (processed 81 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:26:43: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:26:43: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:26:43: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:26:43: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:26:44: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:26:44: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:26:44: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:26:53: ACTION[Server]: singleplayer digs default:dirt_with_snow at (65,17,3)
+2025-05-02 15:26:56: ACTION[Server]: singleplayer digs default:dirt_with_snow at (64,17,2)
+2025-05-02 15:26:59: WARNING[Server]: active block modifiers took 2ms (processed 84 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:27:14: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:27:14: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:27:14: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:27:14: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:27:15: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:27:15: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:27:17: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:27:25: WARNING[Server]: active block modifiers took 2ms (processed 80 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:27:48: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:27:48: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:27:48: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:27:48: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:27:48: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:27:48: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:27:50: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:28:05: ACTION[Server]: singleplayer digs default:pine_tree at (63,18,4)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:28:05: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:28:05: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:28:05: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:28:05: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:28:05: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:28:05: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:28:05: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:28:36: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:28:36: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:28:36: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:28:36: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:28:36: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:28:36: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:28:36: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:28:57: WARNING[Server]: active block modifiers took 2ms (processed 85 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:29:06: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:29:06: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:29:06: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:29:06: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:29:07: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:29:07: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:29:07: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:29:37: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:29:37: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:29:37: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:29:37: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:29:38: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:29:38: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:29:38: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:30:08: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:30:08: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:30:08: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:30:08: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:30:09: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:30:09: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:30:09: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:30:13: WARNING[Server]: active block modifiers took 2ms (processed 18 of 93 active blocks)
+2025-05-02 15:30:21: WARNING[Server]: active block modifiers took 2ms (processed 81 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:30:39: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:30:39: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:30:39: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:30:39: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:30:40: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:30:40: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:30:40: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:30:53: WARNING[Server]: active block modifiers took 2ms (processed 91 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:31:10: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:31:10: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:31:10: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:31:10: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:31:11: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:31:11: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:31:13: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:31:29: ACTION[Server]: singleplayer digs default:dirt_with_snow at (63,17,3)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:31:44: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:31:44: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:31:44: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:31:44: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:31:44: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:31:44: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:31:46: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:32:17: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:32:17: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:32:17: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:32:17: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:32:17: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:32:17: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:32:18: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:32:47: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:32:47: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:32:47: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:32:47: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:32:48: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:32:48: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:32:50: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:33:20: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:33:20: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:33:20: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:33:20: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:33:21: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:33:21: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:33:21: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:33:52: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:33:52: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:33:52: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:33:52: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:33:53: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:33:53: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:33:53: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:34:23: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:34:23: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:34:23: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:34:23: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:34:24: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:34:24: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:34:24: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:34:54: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:34:54: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:34:54: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:34:54: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:34:54: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:34:54: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:34:55: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:35:09: WARNING[Server]: active block modifiers took 2ms (processed 89 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:35:25: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:35:25: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:35:25: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:35:25: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:35:26: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:35:26: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:35:26: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:35:42: WARNING[Server]: active block modifiers took 2ms (processed 74 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:35:56: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:35:56: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:35:56: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:35:56: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:35:57: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:35:57: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:35:57: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:36:27: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:36:27: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:36:27: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:36:27: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:36:28: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:36:28: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:36:28: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:36:37: WARNING[Server]: active block modifiers took 2ms (processed 88 of 93 active blocks)
+2025-05-02 15:36:45: WARNING[Server]: active block modifiers took 2ms (processed 77 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:36:58: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:36:58: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:36:58: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:36:58: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:36:59: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:36:59: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:36:59: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:37:08: WARNING[Server]: active block modifiers took 2ms (processed 75 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:37:29: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:37:29: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:37:29: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:37:29: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:37:30: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:37:30: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:37:30: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:38:00: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:38:00: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:38:00: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:38:00: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:38:01: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:38:01: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:38:01: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:38:31: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:38:31: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:38:31: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:38:31: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:38:32: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:38:32: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:38:32: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:39:02: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:39:02: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:39:02: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:39:02: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:39:03: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:39:03: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:39:03: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:39:33: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:39:33: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:39:33: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:39:33: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:39:34: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:39:34: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:39:36: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:39:40: WARNING[Server]: active block modifiers took 2ms (processed 76 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:40:06: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:40:06: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:40:06: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:40:06: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:40:07: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:40:07: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:40:07: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:40:37: WARNING[Server]: active block modifiers took 2ms (processed 87 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:40:38: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:40:38: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:40:38: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:40:38: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:40:38: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:40:38: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:40:39: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:41:01: WARNING[Server]: active block modifiers took 2ms (processed 75 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:41:09: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:41:09: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:41:09: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:41:09: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:41:09: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:41:09: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:41:10: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:41:31: WARNING[Server]: active block modifiers took 2ms (processed 86 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:41:40: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:41:40: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:41:40: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:41:40: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:41:40: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:41:40: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:41:40: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:42:11: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:42:11: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:42:11: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:42:11: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:42:11: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:42:11: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:42:13: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:42:44: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:42:44: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:42:44: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:42:44: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:42:44: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:42:44: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:42:45: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:43:14: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:43:14: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:43:14: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:43:14: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:43:15: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:43:15: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:43:15: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:43:46: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:43:46: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:43:46: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:43:46: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:43:46: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:43:46: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:43:46: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:44:17: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:44:17: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:44:17: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:44:17: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:44:17: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:44:17: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:44:17: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:44:47: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:44:47: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:44:47: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:44:47: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:44:48: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:44:48: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:44:50: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:45:20: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:45:20: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:45:20: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:45:20: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:45:21: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:45:21: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:45:21: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:45:52: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:45:52: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:45:52: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:45:52: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:45:52: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:45:52: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:45:52: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:46:22: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:46:22: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:46:22: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:46:22: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:46:23: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:46:23: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:46:23: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:46:33: WARNING[Server]: active block modifiers took 2ms (processed 82 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:46:53: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:46:53: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:46:53: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:46:53: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:46:54: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:46:54: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:46:54: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:46:58: WARNING[Server]: active block modifiers took 2ms (processed 85 of 93 active blocks)
+2025-05-02 15:47:22: WARNING[Server]: active block modifiers took 2ms (processed 91 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:47:24: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:47:24: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:47:24: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:47:24: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:47:25: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:47:25: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:47:25: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:47:38: WARNING[Server]: active block modifiers took 2ms (processed 78 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:47:55: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:47:55: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:47:55: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:47:55: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:47:55: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:47:55: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:47:56: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:47:58: WARNING[Server]: active block modifiers took 2ms (processed 81 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:48:25: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:48:25: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:48:25: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:48:25: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:48:26: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:48:26: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:48:26: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:48:35: WARNING[Server]: active block modifiers took 2ms (processed 90 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:48:56: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:48:56: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:48:56: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:48:56: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:48:57: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:48:57: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:48:59: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:49:01: WARNING[Server]: active block modifiers took 2ms (processed 93 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:49:29: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:49:29: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:49:29: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:49:29: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:49:29: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:49:29: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:49:32: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:50:01: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:50:01: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:50:01: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:50:01: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:50:02: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:50:02: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:50:02: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:50:32: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:50:32: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:50:32: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:50:32: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:50:33: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:50:33: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:50:33: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:50:41: WARNING[Server]: active block modifiers took 2ms (processed 93 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:51:03: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:51:03: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:51:03: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:51:03: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:51:03: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:51:03: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:51:04: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:51:14: WARNING[Server]: active block modifiers took 2ms (processed 92 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:51:34: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:51:34: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:51:34: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:51:34: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:51:35: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:51:35: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:51:35: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:51:57: WARNING[Server]: active block modifiers took 2ms (processed 59 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:52:05: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:52:05: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:52:05: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:52:05: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:52:05: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:52:05: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:52:05: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:52:35: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:52:35: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:52:35: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:52:35: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:52:36: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:52:36: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:52:36: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:53:06: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:53:06: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:53:06: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:53:06: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:53:07: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:53:07: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:53:07: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:53:37: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:53:37: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:53:37: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:53:37: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:53:37: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:53:37: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:53:38: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:53:39: WARNING[Server]: active block modifiers took 2ms (processed 90 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:54:07: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:54:07: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:54:07: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:54:07: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:54:08: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:54:08: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:54:08: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:54:38: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:54:38: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:54:38: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:54:38: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:54:38: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:54:38: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:54:38: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:55:08: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:55:08: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:55:08: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:55:08: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:55:09: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:55:09: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:55:11: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:55:41: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:55:41: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:55:41: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:55:41: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:55:42: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:55:42: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:55:42: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:56:12: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:56:12: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:56:12: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:56:12: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:56:12: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:56:12: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:56:14: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:56:45: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:56:45: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:56:45: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:56:45: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:56:45: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:56:45: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:56:46: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:56:54: WARNING[Server]: active block modifiers took 2ms (processed 73 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:57:15: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:57:15: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:57:15: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:57:15: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:57:16: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:57:16: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:57:16: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:57:17: WARNING[Server]: active block modifiers took 2ms (processed 83 of 93 active blocks)
+2025-05-02 15:57:36: WARNING[Server]: active block modifiers took 2ms (processed 86 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:57:46: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:57:46: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:57:46: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:57:46: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:57:46: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:57:46: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:57:47: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:58:16: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:58:16: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:58:16: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:58:16: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:58:17: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:58:17: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:58:17: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:58:27: WARNING[Server]: active block modifiers took 2ms (processed 87 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:58:47: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:58:47: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:58:47: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:58:47: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:58:47: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:58:47: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:58:47: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 15:59:15: WARNING[Server]: active block modifiers took 2ms (processed 89 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:59:17: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:59:17: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:59:17: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:59:17: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:59:18: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:59:18: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:59:18: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 15:59:48: [Main]: World 'world' not available. Available worlds:
+2025-05-02 15:59:48: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 15:59:48: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:59:48: [Main]: Using game specified by --gameid on the command line
+2025-05-02 15:59:49: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 15:59:49: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 15:59:49: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:00:19: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:00:19: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:00:19: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:00:19: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:00:19: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:00:19: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:00:20: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:00:27: WARNING[Server]: active block modifiers took 2ms (processed 70 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:00:50: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:00:50: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:00:50: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:00:50: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:00:50: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:00:50: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:00:50: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:01:20: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:01:20: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:01:20: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:01:20: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:01:21: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:01:21: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:01:23: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:01:24: WARNING[Server]: active block modifiers took 2ms (processed 83 of 93 active blocks)
+2025-05-02 16:01:32: WARNING[Server]: active block modifiers took 2ms (processed 90 of 93 active blocks)
+2025-05-02 16:01:48: ACTION[Server]: singleplayer digs default:dirt_with_snow at (64,17,3)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:01:53: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:01:53: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:01:53: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:01:53: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:01:54: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:01:54: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:01:54: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:02:03: WARNING[Server]: active block modifiers took 2ms (processed 80 of 93 active blocks)
+2025-05-02 16:02:04: ACTION[Server]: singleplayer digs default:dirt_with_snow at (66,17,1)
+2025-05-02 16:02:11: WARNING[Server]: active block modifiers took 2ms (processed 90 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:02:25: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:02:25: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:02:25: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:02:25: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:02:26: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:02:26: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:02:26: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:02:47: WARNING[Server]: active block modifiers took 2ms (processed 91 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:02:56: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:02:56: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:02:56: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:02:56: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:02:56: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:02:56: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:02:56: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:03:04: WARNING[Server]: active block modifiers took 2ms (processed 50 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:03:26: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:03:26: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:03:26: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:03:26: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:03:27: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:03:27: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:03:27: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:03:46: WARNING[Server]: active block modifiers took 2ms (processed 60 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:03:57: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:03:57: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:03:57: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:03:57: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:03:57: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:03:57: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:03:57: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:04:05: WARNING[Server]: active block modifiers took 2ms (processed 70 of 93 active blocks)
+
+
+-------------
+  Separator
+-------------
+
+2025-05-02 16:04:27: [Main]: World 'world' not available. Available worlds:
+2025-05-02 16:04:27: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world
+2025-05-02 16:04:27: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:04:27: [Main]: Using game specified by --gameid on the command line
+2025-05-02 16:04:28: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-62537c08-3001-4e0d-bd71-ea747d003a8e/bin/../worlds/world]
+2025-05-02 16:04:28: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:51323.
+2025-05-02 16:04:28: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-02 16:04:37: WARNING[Server]: active block modifiers took 2ms (processed 76 of 93 active blocks)
+2025-05-02 16:05:01: WARNING[Server]: active block modifiers took 2ms (processed 21 of 93 active blocks)
+2025-05-02 16:05:04: WARNING[Server]: active block modifiers took 2ms (processed 44 of 93 active blocks)
+2025-05-02 16:05:07: WARNING[Server]: active block modifiers took 2ms (processed 40 of 93 active blocks)
+2025-05-02 16:05:09: WARNING[Server]: active block modifiers took 2ms (processed 22 of 93 active blocks)
+2025-05-02 16:05:11: WARNING[Server]: active block modifiers took 2ms (processed 47 of 93 active blocks)
+2025-05-02 16:05:13: WARNING[Server]: active block modifiers took 2ms (processed 25 of 93 active blocks)
+2025-05-02 16:05:17: WARNING[Server]: active block modifiers took 2ms (processed 41 of 93 active blocks)
+2025-05-02 16:05:18: WARNING[Server]: active block modifiers took 2ms (processed 24 of 93 active blocks)
+2025-05-02 16:05:19: WARNING[Server]: active block modifiers took 2ms (processed 55 of 93 active blocks)
+2025-05-02 16:05:25: WARNING[Server]: active block modifiers took 2ms (processed 16 of 93 active blocks)
+2025-05-02 16:05:31: WARNING[Server]: active block modifiers took 2ms (processed 50 of 93 active blocks)
+2025-05-02 16:05:32: WARNING[Server]: active block modifiers took 2ms (processed 52 of 93 active blocks)
+2025-05-02 16:05:33: WARNING[Server]: active block modifiers took 3ms (processed 34 of 93 active blocks)
+2025-05-02 16:05:37: WARNING[Server]: active block modifiers took 2ms (processed 56 of 93 active blocks)
+2025-05-02 16:05:39: WARNING[Server]: active block modifiers took 2ms (processed 52 of 93 active blocks)
+2025-05-02 16:05:41: WARNING[Server]: active block modifiers took 2ms (processed 24 of 93 active blocks)
+2025-05-02 16:05:43: WARNING[Server]: active block modifiers took 2ms (processed 75 of 93 active blocks)
+2025-05-02 16:05:46: WARNING[Server]: active block modifiers took 2ms (processed 47 of 93 active blocks)
+2025-05-02 16:05:49: WARNING[Server]: active block modifiers took 2ms (processed 22 of 93 active blocks)
+2025-05-02 16:05:53: WARNING[Server]: active block modifiers took 2ms (processed 29 of 93 active blocks)
+2025-05-02 16:05:57: WARNING[Server]: active block modifiers took 2ms (processed 36 of 93 active blocks)
+2025-05-02 16:06:00: WARNING[Server]: active block modifiers took 2ms (processed 54 of 93 active blocks)
+2025-05-02 16:06:05: WARNING[Server]: active block modifiers took 2ms (processed 12 of 93 active blocks)
+2025-05-02 16:06:07: WARNING[Server]: active block modifiers took 2ms (processed 16 of 93 active blocks)
+2025-05-02 16:06:13: WARNING[Server]: active block modifiers took 2ms (processed 7 of 93 active blocks)
+2025-05-02 16:06:14: WARNING[Server]: active block modifiers took 2ms (processed 26 of 93 active blocks)
+2025-05-02 16:06:15: WARNING[Server]: active block modifiers took 3ms (processed 12 of 93 active blocks)
+2025-05-02 16:06:19: WARNING[Server]: active block modifiers took 2ms (processed 42 of 93 active blocks)
+2025-05-02 16:06:21: WARNING[Server]: active block modifiers took 2ms (processed 33 of 93 active blocks)
+2025-05-02 16:06:21: WARNING[Server]: active block modifiers took 3ms (processed 15 of 93 active blocks)
+2025-05-02 16:06:25: WARNING[Server]: active block modifiers took 2ms (processed 13 of 93 active blocks)
+2025-05-02 16:06:28: WARNING[Server]: active block modifiers took 2ms (processed 28 of 93 active blocks)
+2025-05-02 16:06:29: WARNING[Server]: active block modifiers took 2ms (processed 46 of 93 active blocks)
+2025-05-02 16:06:31: WARNING[Server]: active block modifiers took 2ms (processed 71 of 93 active blocks)
+2025-05-02 16:06:35: WARNING[Server]: active block modifiers took 2ms (processed 5 of 93 active blocks)
+2025-05-02 16:06:37: WARNING[Server]: active block modifiers took 2ms (processed 13 of 93 active blocks)
+2025-05-02 16:06:42: WARNING[Server]: active block modifiers took 2ms (processed 71 of 93 active blocks)
+2025-05-02 16:06:43: WARNING[Server]: active block modifiers took 2ms (processed 43 of 93 active blocks)
+2025-05-02 16:06:48: WARNING[Server]: active block modifiers took 2ms (processed 1 of 93 active blocks)
+2025-05-02 16:06:49: WARNING[Server]: active block modifiers took 2ms (processed 26 of 93 active blocks)
+2025-05-02 16:06:53: WARNING[Server]: active block modifiers took 2ms (processed 15 of 93 active blocks)
+2025-05-02 16:06:55: WARNING[Server]: active block modifiers took 2ms (processed 38 of 93 active blocks)
+2025-05-02 16:06:56: WARNING[Server]: active block modifiers took 2ms (processed 51 of 93 active blocks)
+2025-05-02 16:07:01: WARNING[Server]: active block modifiers took 2ms (processed 12 of 93 active blocks)
+2025-05-02 16:07:03: WARNING[Server]: active block modifiers took 2ms (processed 61 of 93 active blocks)
+2025-05-02 16:07:07: WARNING[Server]: active block modifiers took 2ms (processed 31 of 93 active blocks)
+2025-05-02 16:07:09: WARNING[Server]: active block modifiers took 2ms (processed 28 of 93 active blocks)
+2025-05-02 16:07:10: WARNING[Server]: active block modifiers took 2ms (processed 37 of 93 active blocks)
+2025-05-02 16:07:13: WARNING[Server]: active block modifiers took 2ms (processed 25 of 93 active blocks)
+2025-05-02 16:07:17: WARNING[Server]: active block modifiers took 2ms (processed 15 of 93 active blocks)
+2025-05-02 16:07:19: WARNING[Server]: active block modifiers took 2ms (processed 8 of 93 active blocks)
+2025-05-02 16:07:24: WARNING[Server]: active block modifiers took 2ms (processed 61 of 93 active blocks)
+2025-05-02 16:07:24: WARNING[Server]: active block modifiers took 2ms (processed 1 of 93 active blocks)
+2025-05-02 16:07:25: WARNING[Server]: active block modifiers took 2ms (processed 12 of 93 active blocks)
+2025-05-02 16:07:29: WARNING[Server]: active block modifiers took 2ms (processed 22 of 93 active blocks)
+2025-05-02 16:07:31: WARNING[Server]: active block modifiers took 2ms (processed 13 of 93 active blocks)
+2025-05-02 16:07:33: WARNING[Server]: active block modifiers took 2ms (processed 49 of 93 active blocks)
+2025-05-02 16:07:37: WARNING[Server]: active block modifiers took 2ms (processed 25 of 93 active blocks)
+2025-05-02 16:07:38: WARNING[Server]: active block modifiers took 2ms (processed 49 of 93 active blocks)
+2025-05-02 16:07:41: WARNING[Server]: active block modifiers took 2ms (processed 67 of 93 active blocks)
+2025-05-02 16:07:43: WARNING[Server]: active block modifiers took 2ms (processed 49 of 93 active blocks)
+2025-05-02 16:07:45: WARNING[Server]: active block modifiers took 2ms (processed 63 of 93 active blocks)
+2025-05-02 16:07:49: WARNING[Server]: active block modifiers took 2ms (processed 9 of 93 active blocks)
+2025-05-02 16:07:52: WARNING[Server]: active block modifiers took 2ms (processed 49 of 93 active blocks)
+2025-05-02 16:07:57: WARNING[Server]: active block modifiers took 2ms (processed 47 of 93 active blocks)
+2025-05-02 16:07:59: WARNING[Server]: active block modifiers took 2ms (processed 28 of 93 active blocks)
+2025-05-02 16:08:01: WARNING[Server]: active block modifiers took 2ms (processed 24 of 93 active blocks)
+2025-05-02 16:08:05: WARNING[Server]: active block modifiers took 2ms (processed 11 of 93 active blocks)
+2025-05-02 16:08:06: WARNING[Server]: active block modifiers took 2ms (processed 40 of 93 active blocks)
+2025-05-02 16:08:07: WARNING[Server]: active block modifiers took 2ms (processed 50 of 93 active blocks)
+2025-05-02 16:08:13: WARNING[Server]: active block modifiers took 2ms (processed 16 of 93 active blocks)
+2025-05-02 16:08:19: WARNING[Server]: active block modifiers took 2ms (processed 40 of 93 active blocks)
+2025-05-02 16:08:20: WARNING[Server]: active block modifiers took 2ms (processed 35 of 93 active blocks)
+2025-05-02 16:08:21: WARNING[Server]: active block modifiers took 2ms (processed 28 of 93 active blocks)
+2025-05-02 16:08:25: WARNING[Server]: active block modifiers took 2ms (processed 49 of 93 active blocks)
+2025-05-02 16:08:27: WARNING[Server]: active block modifiers took 3ms (processed 15 of 93 active blocks)
+2025-05-02 16:08:29: WARNING[Server]: active block modifiers took 2ms (processed 66 of 93 active blocks)
+2025-05-02 16:08:31: WARNING[Server]: active block modifiers took 2ms (processed 32 of 93 active blocks)
+2025-05-02 16:08:34: WARNING[Server]: active block modifiers took 2ms (processed 30 of 93 active blocks)
+2025-05-02 16:08:37: WARNING[Server]: active block modifiers took 2ms (processed 11 of 93 active blocks)
+2025-05-02 16:08:41: WARNING[Server]: active block modifiers took 2ms (processed 16 of 93 active blocks)
+2025-05-02 16:08:43: WARNING[Server]: active block modifiers took 2ms (processed 51 of 93 active blocks)
+2025-05-02 16:08:45: WARNING[Server]: active block modifiers took 2ms (processed 79 of 93 active blocks)
+2025-05-02 16:08:48: WARNING[Server]: active block modifiers took 2ms (processed 43 of 93 active blocks)
+2025-05-02 16:08:49: WARNING[Server]: active block modifiers took 2ms (processed 50 of 93 active blocks)
+2025-05-02 16:08:53: WARNING[Server]: active block modifiers took 2ms (processed 63 of 93 active blocks)
+2025-05-02 16:08:55: WARNING[Server]: active block modifiers took 2ms (processed 13 of 93 active blocks)
+2025-05-02 16:09:01: WARNING[Server]: active block modifiers took 2ms (processed 6 of 93 active blocks)

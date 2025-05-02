@@ -1,0 +1,2001 @@
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 63054 to communicate with craftium
+
+[INFO] PyConn started in port 63054
+
