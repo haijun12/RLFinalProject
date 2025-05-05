@@ -1,5 +1,8 @@
 # RLFinalProject
 
+describing the system it was developed for and how to install it if needed.
+
+https://craftium.readthedocs.io/en/latest/installation/
 
 conda activate craftium
 
