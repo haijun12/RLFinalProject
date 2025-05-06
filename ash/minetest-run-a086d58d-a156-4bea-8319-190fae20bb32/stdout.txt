@@ -1,0 +1,1002 @@
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 53250 to communicate with craftium
+
+[INFO] PyConn started in port 53250
+

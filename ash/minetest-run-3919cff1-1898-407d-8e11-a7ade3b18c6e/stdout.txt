@@ -1,0 +1,1502 @@
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 59093 to communicate with craftium
+
+[INFO] PyConn started in port 59093
+

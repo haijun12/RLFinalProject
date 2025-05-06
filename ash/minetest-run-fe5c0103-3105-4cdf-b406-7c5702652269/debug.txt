@@ -1,0 +1,76 @@
+
+
+-------------
+  Separator
+-------------
+
+2025-05-05 22:32:43: [Main]: World 'world' not available. Available worlds:
+2025-05-05 22:32:43: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world
+2025-05-05 22:32:43: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world]
+2025-05-05 22:32:43: [Main]: Using game specified by --gameid on the command line
+2025-05-05 22:32:43: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world]
+2025-05-05 22:32:43: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:58222.
+2025-05-05 22:32:43: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-05 22:32:44: ACTION[Server]: [Proximity] Closest tree at (64,20,-3), reward: 0.05
+
+
+-------------
+  Separator
+-------------
+
+2025-05-05 22:32:44: [Main]: World 'world' not available. Available worlds:
+2025-05-05 22:32:44: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world
+2025-05-05 22:32:44: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world]
+2025-05-05 22:32:44: [Main]: Using game specified by --gameid on the command line
+2025-05-05 22:32:44: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world]
+2025-05-05 22:32:44: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:58222.
+2025-05-05 22:32:44: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-05 22:32:44: ACTION[Server]: [Proximity] Closest tree at (65,20,2), reward: 0.05
+2025-05-05 22:32:45: ACTION[Server]: [Proximity] Closest tree at (65,18,2), reward: 0.05
+2025-05-05 22:32:46: ACTION[Server]: [PartialDig] Aborted dig at (65,18,2)
+2025-05-05 22:32:46: ACTION[Server]: [PartialDig] Aborted dig at (68,18,3)
+2025-05-05 22:32:46: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:32:47: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.081335429271098
+2025-05-05 22:32:48: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.073993406583813
+2025-05-05 22:32:49: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.059802360794575
+2025-05-05 22:32:51: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:32:52: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:32:53: ACTION[Server]: [Proximity] Closest tree at (68,17,3), reward: 0.05
+2025-05-05 22:32:54: ACTION[Server]: [Proximity] Closest tree at (68,17,3), reward: 0.05
+2025-05-05 22:32:55: ACTION[Server]: [Proximity] Closest tree at (68,17,3), reward: 0.05
+2025-05-05 22:32:56: ACTION[Server]: [Proximity] Closest tree at (71,17,2), reward: 0.05
+2025-05-05 22:32:57: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.052088074315558
+2025-05-05 22:32:58: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.10288491321883
+2025-05-05 22:32:58: ACTION[Server]: [PartialDig] Aborted dig at (74,18,1)
+2025-05-05 22:32:59: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.10491324980031
+2025-05-05 22:33:00: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.10555800673653
+2025-05-05 22:33:01: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.10004055748151
+2025-05-05 22:33:02: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.09574219277493
+2025-05-05 22:33:03: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.091864251078947
+2025-05-05 22:33:04: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.085365580357992
+2025-05-05 22:33:05: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.080279449925123
+2025-05-05 22:33:06: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.068439207243996
+2025-05-05 22:33:07: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.05
+2025-05-05 22:33:08: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.05
+2025-05-05 22:33:09: ACTION[Server]: [Proximity] Closest tree at (74,17,1), reward: 0.05
+2025-05-05 22:33:10: ACTION[Server]: [Proximity] Closest tree at (74,18,1), reward: 0.05
+2025-05-05 22:33:11: ACTION[Server]: [Proximity] Closest tree at (74,18,1), reward: 0.05
+
+
+-------------
+  Separator
+-------------
+
+2025-05-05 22:33:11: [Main]: World 'world' not available. Available worlds:
+2025-05-05 22:33:11: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world
+2025-05-05 22:33:11: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world]
+2025-05-05 22:33:11: [Main]: Using game specified by --gameid on the command line
+2025-05-05 22:33:12: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-fe5c0103-3105-4cdf-b406-7c5702652269/bin/../worlds/world]
+2025-05-05 22:33:12: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:58222.
+2025-05-05 22:33:12: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-05 22:33:12: ACTION[Server]: [Proximity] Closest tree at (65,20,2), reward: 0.05
+2025-05-05 22:33:13: ACTION[Server]: [Proximity] Closest tree at (65,19,2), reward: 0.05
+2025-05-05 22:33:14: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:33:15: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:33:15: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:33:16: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05

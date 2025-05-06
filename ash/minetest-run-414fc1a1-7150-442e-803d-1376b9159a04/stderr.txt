@@ -1,0 +1,33 @@
+2025-05-06 10:20:58: [Main]: World 'world' not available. Available worlds:
+2025-05-06 10:20:58: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-414fc1a1-7150-442e-803d-1376b9159a04/bin/../worlds/world
+2025-05-06 10:20:58: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-414fc1a1-7150-442e-803d-1376b9159a04/bin/../worlds/world]
+2025-05-06 10:20:58: [Main]: Using game specified by --gameid on the command line
+         __.               __.                 __.  
+  _____ |__| ____   _____ /  |_  _____  _____ /  |_ 
+ /     \|  |/    \ /  __ \    _\/  __ \/   __>    _\
+|  Y Y  \  |   |  \   ___/|  | |   ___/\___  \|  |  
+|__|_|  /  |___|  /\______>  |  \______>_____/|  |  
+      \/ \/     \/         \/                  \/   
+2025-05-06 10:20:58: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-414fc1a1-7150-442e-803d-1376b9159a04/bin/../worlds/world]
+2025-05-06 10:20:58: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:57154.
+2025-05-06 10:20:59: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-06 10:20:59: [Main]: World 'world' not available. Available worlds:
+2025-05-06 10:20:59: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-414fc1a1-7150-442e-803d-1376b9159a04/bin/../worlds/world
+2025-05-06 10:20:59: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-414fc1a1-7150-442e-803d-1376b9159a04/bin/../worlds/world]
+2025-05-06 10:20:59: [Main]: Using game specified by --gameid on the command line
+         __.               __.                 __.  
+  _____ |__| ____   _____ /  |_  _____  _____ /  |_ 
+ /     \|  |/    \ /  __ \    _\/  __ \/   __>    _\
+|  Y Y  \  |   |  \   ___/|  | |   ___/\___  \|  |  
+|__|_|  /  |___|  /\______>  |  \______>_____/|  |  
+      \/ \/     \/         \/                  \/   
+2025-05-06 10:20:59: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-414fc1a1-7150-442e-803d-1376b9159a04/bin/../worlds/world]
+2025-05-06 10:20:59: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:57154.
+2025-05-06 10:21:00: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-06 10:21:00: WARNING[Server]: Undeclared global variable "node_pos" accessed at ...442e-803d-1376b9159a04/bin/../mods/craftium_mod/init.lua:22
+2025-05-06 10:21:00: ERROR[Main]: ServerError: AsyncErr: Lua: Runtime error from mod 'craftium_chop_tree' in callback environment_Step(): ...803d-1376b9159a04/bin/../builtin/common/misc_helpers.lua:418: attempt to index local 'pos' (a nil value)
+2025-05-06 10:21:00: ERROR[Main]: stack traceback:
+2025-05-06 10:21:00: ERROR[Main]: 	...803d-1376b9159a04/bin/../builtin/common/misc_helpers.lua:418: in function 'pos_to_string'
+2025-05-06 10:21:00: ERROR[Main]: 	...442e-803d-1376b9159a04/bin/../mods/craftium_mod/init.lua:22: in function <...442e-803d-1376b9159a04/bin/../mods/craftium_mod/init.lua:14>
+2025-05-06 10:21:00: ERROR[Main]: 	...42e-803d-1376b9159a04/bin/../builtin/common/register.lua:26: in function <...42e-803d-1376b9159a04/bin/../builtin/common/register.lua:12>
+2025-05-06 10:21:01: ACTION[ServerStop]: Server: Shutting down

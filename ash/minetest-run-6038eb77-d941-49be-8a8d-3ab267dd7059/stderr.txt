@@ -1,0 +1,88 @@
+2025-05-06 10:00:26: [Main]: World 'world' not available. Available worlds:
+2025-05-06 10:00:26: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-6038eb77-d941-49be-8a8d-3ab267dd7059/bin/../worlds/world
+2025-05-06 10:00:26: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-6038eb77-d941-49be-8a8d-3ab267dd7059/bin/../worlds/world]
+2025-05-06 10:00:26: [Main]: Using game specified by --gameid on the command line
+         __.               __.                 __.  
+  _____ |__| ____   _____ /  |_  _____  _____ /  |_ 
+ /     \|  |/    \ /  __ \    _\/  __ \/   __>    _\
+|  Y Y  \  |   |  \   ___/|  | |   ___/\___  \|  |  
+|__|_|  /  |___|  /\______>  |  \______>_____/|  |  
+      \/ \/     \/         \/                  \/   
+2025-05-06 10:00:27: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-6038eb77-d941-49be-8a8d-3ab267dd7059/bin/../worlds/world]
+2025-05-06 10:00:27: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:49470.
+2025-05-06 10:00:27: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-06 10:00:27: ACTION[Server]: [Proximity] Closest tree at (65,20,2), reward: 0.05
+2025-05-06 10:00:28: ACTION[Server]: [Proximity] Closest tree at (65,20,2), reward: 0.05
+2025-05-06 10:00:28: WARNING[Server]: Undeclared global variable "current_look_pos" accessed at ...49be-8a8d-3ab267dd7059/bin/../mods/craftium_mod/init.lua:28
+2025-05-06 10:00:29: ACTION[Server]: [Proximity] Closest tree at (63,18,4), reward: 0.10613569297547
+2025-05-06 10:00:30: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:31: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:32: ACTION[Server]: [SteadyFocus] Sustained look at (63,19,4)
+2025-05-06 10:00:32: ACTION[Server]: [PartialDig] Timeout digging at (63,19,4)
+2025-05-06 10:00:32: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:33: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:34: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:35: ACTION[Server]: [PartialDig] Timeout digging at (63,19,4)
+2025-05-06 10:00:35: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:36: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:37: ACTION[Server]: [PartialDig] Timeout digging at (63,19,4)
+2025-05-06 10:00:37: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:38: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:39: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.1012223851041
+2025-05-06 10:00:40: ACTION[Server]: [PartialDig] Timeout digging at (63,19,4)
+2025-05-06 10:00:40: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.10455775712622
+2025-05-06 10:00:40: ACTION[Server]: [PartialDig] Aborted dig at (63,19,4)
+2025-05-06 10:00:41: ACTION[Server]: [Proximity] Closest tree at (63,17,4), reward: 0.05
+2025-05-06 10:00:42: ACTION[Server]: [Proximity] Closest tree at (63,18,4), reward: 0.05
+2025-05-06 10:00:43: ACTION[Server]: [Proximity] Closest tree at (56,18,4), reward: 0.05
+2025-05-06 10:00:44: ACTION[Server]: [PartialDig] Aborted dig at (60,18,-5)
+2025-05-06 10:00:44: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:45: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:46: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:47: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:48: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:49: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:50: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:51: ACTION[Server]: [Proximity] Closest tree at (56,17,4), reward: 0.05
+2025-05-06 10:00:52: ACTION[Server]: [PartialDig] Aborted dig at (62,18,-7)
+2025-05-06 10:00:52: ACTION[Server]: [Proximity] Closest tree at (60,17,-5), reward: 0.10355302089722
+2025-05-06 10:00:53: ACTION[Server]: [Proximity] Closest tree at (60,17,-5), reward: 0.10355302089722
+2025-05-06 10:00:54: WARNING[Server]: active block modifiers took 2ms (processed 88 of 93 active blocks)
+2025-05-06 10:00:54: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:00:55: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:00:56: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:00:57: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:00:58: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:00:59: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:00: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:01: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:03: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:04: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:05: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:06: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:07: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:08: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:09: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:10: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:11: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:12: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:13: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:14: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:15: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:16: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:17: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:18: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:19: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:20: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:21: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:22: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:23: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:24: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:25: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:26: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:27: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:28: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:29: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:30: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:31: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679
+2025-05-06 10:01:32: ACTION[Server]: [Proximity] Closest tree at (60,16,-5), reward: 0.10350127308679

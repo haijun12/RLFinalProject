@@ -1,0 +1,31 @@
+
+
+-------------
+  Separator
+-------------
+
+2025-05-06 10:21:42: [Main]: World 'world' not available. Available worlds:
+2025-05-06 10:21:42: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67726d6c-891b-4995-86ae-b5eb9517263b/bin/../worlds/world
+2025-05-06 10:21:42: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67726d6c-891b-4995-86ae-b5eb9517263b/bin/../worlds/world]
+2025-05-06 10:21:42: [Main]: Using game specified by --gameid on the command line
+2025-05-06 10:21:42: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67726d6c-891b-4995-86ae-b5eb9517263b/bin/../worlds/world]
+2025-05-06 10:21:42: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:57676.
+2025-05-06 10:21:43: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+
+
+-------------
+  Separator
+-------------
+
+2025-05-06 10:21:43: [Main]: World 'world' not available. Available worlds:
+2025-05-06 10:21:43: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67726d6c-891b-4995-86ae-b5eb9517263b/bin/../worlds/world
+2025-05-06 10:21:43: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67726d6c-891b-4995-86ae-b5eb9517263b/bin/../worlds/world]
+2025-05-06 10:21:43: [Main]: Using game specified by --gameid on the command line
+2025-05-06 10:21:44: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67726d6c-891b-4995-86ae-b5eb9517263b/bin/../worlds/world]
+2025-05-06 10:21:44: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:57676.
+2025-05-06 10:21:44: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-06 10:21:45: WARNING[Server]: active block modifiers took 2ms (processed 89 of 93 active blocks)
+2025-05-06 10:21:45: WARNING[Server]: Undeclared global variable "current_look_pos" accessed at ...4995-86ae-b5eb9517263b/bin/../mods/craftium_mod/init.lua:69
+2025-05-06 10:21:47: ACTION[Server]: [AbortedDig] Incomplete dig at (62,19,11)
+2025-05-06 10:21:48: ACTION[Server]: [AbortedDig] Incomplete dig at (63,19,15)
+2025-05-06 10:21:50: ACTION[Server]: [AbortedDig] Incomplete dig at (65,19,21)

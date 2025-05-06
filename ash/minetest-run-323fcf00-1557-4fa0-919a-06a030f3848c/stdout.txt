@@ -1,0 +1,167 @@
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54469 to communicate with craftium
+
+[INFO] PyConn started in port 54469
+

@@ -1,0 +1,60 @@
+
+
+-------------
+  Separator
+-------------
+
+2025-05-05 22:25:13: [Main]: World 'world' not available. Available worlds:
+2025-05-05 22:25:13: [Main]: 	worldA		/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67089d42-257a-4680-95a0-4edc76e4853a/bin/../worlds/world
+2025-05-05 22:25:13: [Main]: Automatically selecting world at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67089d42-257a-4680-95a0-4edc76e4853a/bin/../worlds/world]
+2025-05-05 22:25:13: [Main]: Using game specified by --gameid on the command line
+2025-05-05 22:25:14: ACTION[ServerStart]: World at [/Users/asze01/Documents/GitHub/RLFinalProject/ash/minetest-run-67089d42-257a-4680-95a0-4edc76e4853a/bin/../worlds/world]
+2025-05-05 22:25:14: ACTION[ServerStart]: Server for gameid="minetest" listening on 127.0.0.1:65446.
+2025-05-05 22:25:14: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-05-05 22:25:14: ACTION[Server]: [Proximity] Closest tree at (65,20,2), reward: 0.05
+2025-05-05 22:25:15: ACTION[Server]: [Proximity] Closest tree at (65,20,2), reward: 0.05
+2025-05-05 22:25:16: ACTION[Server]: [Proximity] Closest tree at (65,18,2), reward: 0.05
+2025-05-05 22:25:17: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:17: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:18: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:19: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:19: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:19: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:20: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:21: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:21: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:21: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:22: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:23: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:24: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:24: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:24: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:25: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:26: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:27: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:27: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:27: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:28: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:29: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:29: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:29: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:30: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:32: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:32: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:32: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:33: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:34: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:34: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:34: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:35: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:35: WARNING[Server]: active block modifiers took 2ms (processed 87 of 93 active blocks)
+2025-05-05 22:25:36: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:37: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:37: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:37: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:38: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:39: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:40: ACTION[Server]: [PartialDig] Timeout digging at (63,18,4)
+2025-05-05 22:25:40: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05
+2025-05-05 22:25:40: ACTION[Server]: [PartialDig] Aborted dig at (63,18,4)
+2025-05-05 22:25:41: ACTION[Server]: [Proximity] Closest tree at (65,17,2), reward: 0.05

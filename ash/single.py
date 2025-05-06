@@ -14,6 +14,7 @@ from gymnasium.wrappers import FrameStack
 import time
 
 episode_rewards = []
+training_losses = []
 
 Transition = namedtuple('Transition',
                         ('state', 'action', 'next_state', 'reward'))
@@ -92,7 +93,7 @@ class Agent():
         self.GAMMA = hyperparameters.get("GAMMA", 0.99)
         self.EPS_START = hyperparameters.get("EPS_START", 0.9)
         self.EPS_END = hyperparameters.get("EPS_END", 0.05)
-        self.EPS_DECAY = hyperparameters.get("EPS_DECAY", 1000)
+        self.EPS_DECAY = hyperparameters.get("EPS_DECAY", 3000)
         self.TAU = hyperparameters.get("TAU", 0.005)
         self.LR = hyperparameters.get("LR", 1e-4)
         self.memory_size = hyperparameters.get("MEMORY_SIZE", 10000)
@@ -217,6 +218,7 @@ class Agent():
         # In-place gradient clipping
         torch.nn.utils.clip_grad_value_(self.policy_net.parameters(), 100)
         self.optimizer.step()
+        training_losses.append(loss.item())
 
     def load_policy_net(self, filepath):
         self.policy_net.load_state_dict(torch.load(filepath))
@@ -241,8 +243,12 @@ class ChopTreeEnv():
         self.env = DiscreteActionWrapper(
             self.env,
             actions=config.get("actions", [
-                "forward", "jump", "dig", "mouse x+",
-                "mouse x-", "mouse y+", "mouse y-"
+                "forward", 
+                "dig", 
+                "mouse x+",
+                "mouse x-"
+                # "mouse y+", 
+                # "mouse y-"
             ]),
             mouse_mov=config.get("mouse_mov", 0.2),
         )
@@ -260,11 +266,15 @@ class ChopTreeEnv():
         return self.env.reset()
 
     def _penalize_timestep(self, reward):
-        return reward - 0.001
+        return reward 
 
     def step(self, action):
         obs, reward, terminated, truncated, info = self.env.step(
             action)
+        
+        if action in [2, 3]:  # x and y mouse movement
+            reward -= 0.05
+
         reward = self._penalize_timestep(reward)
         return obs, reward, terminated, truncated, info
 
@@ -417,7 +427,7 @@ agent_hyperparameters = {
     "GAMMA": 0.99,
     "EPS_START": 0.9,
     "EPS_END": 0.05,
-    "EPS_DECAY": 1000,
+    "EPS_DECAY": 3000,
     "TAU": 0.005,
     "LR": 1e-4
 }
@@ -431,9 +441,10 @@ env_configs = {
     "n_frame_skip": 4,
     "render_mode": "human",
     "seed": 2025,
-    "max_timesteps": 500,
+    "max_timesteps": 1000,
     "frame_stack": True,
     "num_stack": 4,
+    "actions": ["forward", "dig", "mouse x+", "mouse x-"]
 }
 
 # ENVIRONMENT
@@ -443,24 +454,35 @@ env = ChopTreeEnv(env_configs)
 agent = Agent(env.observation_space.shape, env.action_space,
               agent_hyperparameters, device)
 
-# TRAINING
 if torch.cuda.is_available() or torch.backends.mps.is_available():
-    num_episodes = 400
+    num_episodes = 200
 else:
     num_episodes = 10
 
 logger = TrainingLogger()
 
-train_agent(env, agent, num_episodes, logger, save_model=True,
-            model_filename="dqn_model_stacked.pth")
+#TRAINING
+# train_agent(env, agent, num_episodes, logger, save_model=True,
+#             model_filename="dqn_model_stacked_no_y_simple.pth")
 
-# Keep the plot open after training completes
-plt.figure(1)
-plt.title("Final Training Reward Curve")
-plt.xlabel("Episode")
-plt.ylabel("Total Reward")
-plt.plot(episode_rewards)
-plt.show()
+# # Keep the plot open after training completes
+# plt.figure(1)
+# plt.title("Learning Progress: Rewards")
+# plt.xlabel("Episode")
+# plt.ylabel("Total Reward")
+# plt.plot(episode_rewards, label="Reward per Episode")
+# plt.legend()
+# plt.show()
 
-# test_agent(env, agent, 1000, "dqn_model_stacked.pth",
-#            env_configs["frame_stack"], logger)
+# # training loss
+# plt.figure(2)
+# plt.title("Training Loss Over Time")
+# plt.xlabel("Training Steps")
+# plt.ylabel("Loss")
+# plt.plot(training_losses, label="Loss")
+# plt.legend()
+# plt.show()
+
+#TESTING
+test_agent(env, agent, 1000, "dqn_model_stacked_no_y_simple.pth",
+           env_configs["frame_stack"], logger)

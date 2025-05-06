@@ -1,0 +1,4 @@
+[*] Minetest using port 52635 to communicate with craftium
+
+[INFO] PyConn started in port 52635
+

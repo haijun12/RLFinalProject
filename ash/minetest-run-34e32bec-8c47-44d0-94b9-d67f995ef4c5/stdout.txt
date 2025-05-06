@@ -1,0 +1,184 @@
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 54101 to communicate with craftium
+
+[INFO] PyConn started in port 54101
+

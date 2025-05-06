@@ -1,0 +1,9 @@
+[*] Minetest using port 55309 to communicate with craftium
+
+[INFO] PyConn started in port 55309
+
+[INFO] Auto-kill signal received, exiting...
+[*] Minetest using port 55309 to communicate with craftium
+
+[INFO] PyConn started in port 55309
+
