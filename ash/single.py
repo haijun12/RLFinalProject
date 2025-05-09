@@ -247,8 +247,8 @@ class ChopTreeEnv():
                 "dig", 
                 "mouse x+",
                 "mouse x-"
-                # "mouse y+", 
-                # "mouse y-"
+                "mouse y+", 
+                "mouse y-"
             ]),
             mouse_mov=config.get("mouse_mov", 0.2),
         )
@@ -444,7 +444,7 @@ env_configs = {
     "max_timesteps": 1000,
     "frame_stack": True,
     "num_stack": 4,
-    "actions": ["forward", "dig", "mouse x+", "mouse x-"]
+    "actions": ["forward", "dig", "mouse x+", "mouse x-", "mouse y+", "mouse y-"]
 }
 
 # ENVIRONMENT
